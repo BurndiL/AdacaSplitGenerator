@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutosplitGenerator", "AutosplitGenerator\AutosplitGenerator.csproj", "{FF34A611-AA7E-4ACC-B92B-B6E7308D7703}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF34A611-AA7E-4ACC-B92B-B6E7308D7703}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF34A611-AA7E-4ACC-B92B-B6E7308D7703}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF34A611-AA7E-4ACC-B92B-B6E7308D7703}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF34A611-AA7E-4ACC-B92B-B6E7308D7703}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E566E31E-9186-4481-B663-F064B1344F85}
+	EndGlobalSection
+EndGlobal
